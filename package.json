@@ -1,0 +1,17 @@
+{
+  "name": "service-builder",
+  "version": "1.0.0",
+  "main": "builder.js",
+  "scripts": {
+    "start": "node builder.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.628.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "util": "^0.12.2"
+  },
+  "description": ""
+}
